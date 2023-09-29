@@ -1,0 +1,2 @@
+# Build a simple API using TypeORM and Express.js to handle user registration. 
+The API should allow users to register by providing a username and password and finally Use Postman to test the registration endpoint.
